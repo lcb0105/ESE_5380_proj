@@ -1,0 +1,19 @@
+horizon,comparison,model1,model2,DM_stat,p_value,winner,significance
+7,GBDT vs Naive,LightGBM (Median),SeasonalNaive(P=7),-3.487,0.0005,LightGBM (Median),✅ Significant
+7,GBDT vs Classical,LightGBM (Median),ETS,-18.733,0.0000,LightGBM (Median),✅ Significant
+7,LightGBM vs XGBoost,LightGBM (Median),XGBoost,-1.991,0.0464,LightGBM (Median),✅ Significant
+7,LightGBM vs CatBoost,LightGBM (Median),CatBoost,-3.081,0.0021,LightGBM (Median),✅ Significant
+7,Deep Learning vs GBDT,TCN,LightGBM (Median),-0.115,0.9085,Tie,⚠️ Not significant
+7,SARIMAX vs ETS,SARIMAX,ETS,-14.879,0.0000,SARIMAX,✅ Significant
+14,GBDT vs Naive,LightGBM (Median),SeasonalNaive(P=7),-0.976,0.3291,Tie,⚠️ Not significant
+14,GBDT vs Classical,LightGBM (Median),ETS,-9.011,0.0000,LightGBM (Median),✅ Significant
+14,LightGBM vs XGBoost,LightGBM (Median),XGBoost,-1.425,0.1542,Tie,⚠️ Not significant
+14,LightGBM vs CatBoost,LightGBM (Median),CatBoost,-4.237,0.0000,LightGBM (Median),✅ Significant
+14,Deep Learning vs GBDT,TCN,LightGBM (Median),0.121,0.9034,Tie,⚠️ Not significant
+14,SARIMAX vs ETS,SARIMAX,ETS,1.985,0.0472,ETS,✅ Significant
+28,GBDT vs Naive,LightGBM (Median),SeasonalNaive(P=7),-1.859,0.0630,Tie,⚠️ Not significant
+28,GBDT vs Classical,LightGBM (Median),ETS,-11.481,0.0000,LightGBM (Median),✅ Significant
+28,LightGBM vs XGBoost,LightGBM (Median),XGBoost,-1.762,0.0781,Tie,⚠️ Not significant
+28,LightGBM vs CatBoost,LightGBM (Median),CatBoost,-3.246,0.0012,LightGBM (Median),✅ Significant
+28,Deep Learning vs GBDT,TCN,LightGBM (Median),0.509,0.6111,Tie,⚠️ Not significant
+28,SARIMAX vs ETS,SARIMAX,ETS,-3.881,0.0001,SARIMAX,✅ Significant
