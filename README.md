@@ -479,12 +479,12 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 For questions, issues, or feedback:
 - **GitHub Issues**: [Create an issue](https://github.com/yourusername/ESE_5380_proj/issues)
-- **Email**: [Your Email]
+- **Email**: lcb0105@seas.upenn.edu
 - **Course**: ESE538, University of Pennsylvania
 
 ---
 
-**Last Updated**: December 2024
+**Last Updated**: December 2025
 **Status**: ✅ Production Ready
 **Notebook Runtime**: ~30 minutes (with GPU)
 **Dataset Size**: ~21.4 MB (compressed)
