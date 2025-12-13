@@ -472,4 +472,4 @@ By contributing, you agree that your contributions will be licensed under the MI
 
 If you have questions about contributing, feel free to open an issue or contact the maintainers.
 
-**Last Updated**: December 2024
+**Last Updated**: December 2025
